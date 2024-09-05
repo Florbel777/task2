@@ -1,0 +1,200 @@
+
+.hat1
+{
+    background-color: black;
+    width: 150px; height: 150px;
+    position: absolute;
+    left: 600px;
+    top: 200px;
+}
+.hat2
+{
+    background-color: black;
+    width: 250px; height: 60px;
+    position: absolute;
+    left: 550px;
+    top: 300px;
+    border-radius: 600px;  
+}
+.face
+{
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    width: 200px; height: 200px;
+    position: absolute;
+    left: 580px;
+    top: 355px;
+    border-radius: 600px;  
+}
+.eye1
+{
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    width: 30px; height: 30px;
+    position: absolute;
+    left: 40px;
+    top: 60px;
+    border-radius: 600px;  
+}
+.iris1
+{
+    background-color: black;
+    width: 30px; height: 30px;
+    position: absolute;
+    left: 40px;
+    top: 60px;
+    border-radius: 600px;  
+}
+.iris2
+{
+    background-color: black;
+    width: 30px; height: 30px;
+    position: absolute;
+    left: 120px;
+    top: 60px;
+    border-radius: 600px;  
+}
+.eye2
+{
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    width: 30px; height: 30px;
+    position: absolute;
+    left: 120px;
+    top: 60px;
+    border-radius: 600px;  
+}
+.nose
+{
+    position: absolute;
+    border-right: 20px solid transparent;
+    border-left: 20px solid transparent;
+    border-bottom: 40px solid orange;
+    position: absolute;
+    left: 90px;
+    top: 100px;
+    transform: rotate(85deg);
+}
+.m1
+{
+    background-color: black;
+    width: 15px; height: 15px;
+    position: absolute;
+    left: 50px;
+    top: 140px;
+    border-radius: 600px;  
+}
+.m2
+{
+    background-color: black;
+    width: 15px; height: 15px;
+    position: absolute;
+    left: 70px;
+    top: 145px;
+    border-radius: 600px;  
+}
+.m3
+{
+    background-color: black;
+    width: 15px; height: 15px;
+    position: absolute;
+    left: 90px;
+    top: 145px;
+    border-radius: 600px;  
+}
+.m4
+{
+    background-color: black;
+    width: 15px; height: 15px;
+    position: absolute;
+    left: 110px;
+    top: 145px;
+    border-radius: 600px;  
+}
+.m5
+{
+    background-color: black;
+    width: 15px; height: 15px;
+    position: absolute;
+    left: 130px;
+    top: 140px;
+    border-radius: 600px;  
+}
+.body1
+{
+    background-color: white;
+    border-color: black;
+    width: 250px; height: 250px;
+    position: absolute;
+    left: 570px;
+    top: 560px;
+    border-radius: 600px; 
+    border-color: black;
+    border-style: solid; 
+}
+.b1
+{
+    background-color: red;
+    border-color: black;
+    border-style: dotted;
+    width: 50px; height: 50px;
+    position: absolute;
+    left: 100px;
+    top: 30px;
+    border-radius: 600px; 
+}
+.b2
+{
+    background-color: red;
+    border-color: black;
+    border-style: dotted;
+    width: 50px; height: 50px;
+    position: absolute;
+    left: 100px;
+    top: 90px;
+    border-radius: 600px; 
+}
+.b3
+{
+    background-color: red;
+    border-color: black;
+    border-style: dotted;
+    width: 50px; height: 50px;
+    position: absolute;
+    left: 100px;
+    top: 150px;
+    border-radius: 600px; 
+}
+.arm1
+{
+    background-color: orange;
+    width: 30px; height: 190px;
+    position: relative;
+    left: 300px;
+    top: -80px;
+    transform: rotate(60deg);
+}
+.arm2
+{
+    background-color: orange;
+    width: 30px; height: 190px;
+    position: relative;
+    left: -70px;
+    top: -280px;
+    transform: rotate(305deg);
+}
+.bodyf
+{
+    background-color: white;
+    border-color: black;
+    width: 300px; height: 300px;
+    position: absolute;
+    left: 550px;
+    top: 810px;
+    border-radius: 600px;  
+    border-color: black;
+    border-style: solid;
+}
